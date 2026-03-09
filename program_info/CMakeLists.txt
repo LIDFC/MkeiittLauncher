@@ -8,7 +8,7 @@ if(UNIX)
     endif()
 endif()
 
-set(Launcher_CommonName "Mkeiitauncher")
+set(Launcher_CommonName "mkeiitauncher")
 set(Launcher_DisplayName "Mkeiit Launcher")
 
 set(Launcher_Name "${Launcher_CommonName}" PARENT_SCOPE)
